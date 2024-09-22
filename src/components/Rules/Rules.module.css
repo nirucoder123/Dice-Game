@@ -1,0 +1,17 @@
+.main {
+ 
+  margin: 40px 10px 0px 420px;
+  background-color: rgba(212, 183, 236, 0.573);
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(1, 1, 1, 0.509), 0 4px 12px rgba(1, 1, 1, 0.509);
+      margin-top: 80px;
+}
+.main h2 {
+    font-size:24px ;
+
+}
+.rules{
+    margin-top: 24px;
+}
